@@ -1,6 +1,8 @@
 # projeto
 
-## Project setup
+## Frontend
+
+### Project setup
 ```
 npm install
 ```
@@ -20,9 +22,20 @@ npm run build
 npm run lint
 ```
 
+## Backend
+
 ### Link da API
 [Fake-API](https://github.com/viniciosneves/auth-vue-vuex/archive/48dd3dd2848ff6df4ed6dca43fa9dee1361b46db.zip)
 
+### Project setup
+```
+npm install
+```
+
+### Rodar o back(editar essa parte)
+```
+npm run start-auth
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
