@@ -32,7 +32,7 @@ npm run lint
 npm install
 ```
 
-### Rodar o back(editar essa parte)
+### Rodar o back
 ```
 npm run start-auth
 ```
