@@ -25,7 +25,7 @@ npm run lint
 ## Backend
 
 ### Link da API
-[Fake-API](https://github.com/viniciosneves/auth-vue-vuex/archive/48dd3dd2848ff6df4ed6dca43fa9dee1361b46db.zip)
+[Fake-API](https://github.com/viniciosneves/fake-rest-api.git)
 
 ### Project setup
 ```
